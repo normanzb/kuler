@@ -1,0 +1,3 @@
+[submodule "src/lib/COGS"]
+	path = src/lib/COGS
+	url = git@github.com:ETUI/COGS.git
