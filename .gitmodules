@@ -1,3 +1,6 @@
 [submodule "src/lib/COGS"]
 	path = src/lib/COGS
 	url = git@github.com:ETUI/COGS.git
+[submodule "sourcecode"]
+	path = sourcecode
+	url = git@github.com:normanzb/kuler.git
